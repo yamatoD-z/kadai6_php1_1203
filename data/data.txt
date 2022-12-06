@@ -610,3 +610,596 @@
  To use this feature you will need an individual account. If you have one already please sign in.
  Alternatively you can request an individual account here:
 
+2022-12-06 14:55:23要素の数は20
+2022-12-06 14:55:23配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 14:55:23 Markets 
+	
+
+
+ Fear & Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+  
+ 
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+  
+ 
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+  
+ 
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+  
+ 
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+  
+ 
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+    
+ 
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+  
+ 
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+  
+ 
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+  
+ 
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+  
+ 
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+  
+ 
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+  
+ 
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+  
+ 
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+  
+ 
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+
+2022-12-06 14:57:17要素の数は20
+2022-12-06 14:57:17配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 14:57:17 Markets 
+	
+
+
+ Fear & Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+  
+ 
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+  
+ 
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+  
+ 
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+  
+ 
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+  
+ 
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+    
+ 
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+  
+ 
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+  
+ 
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+  
+ 
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+  
+ 
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+  
+ 
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+  
+ 
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+  
+ 
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+  
+ 
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+
+2022-12-06 14:57:57要素の数は20
+2022-12-06 14:57:57配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 14:57:57 Markets 
+	
+
+
+ Fear & Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+  
+ 
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+  
+ 
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+  
+ 
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+  
+ 
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+  
+ 
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+    
+ 
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+  
+ 
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+  
+ 
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+  
+ 
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+  
+ 
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+  
+ 
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+  
+ 
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+  
+ 
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+  
+ 
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+
+2022-12-06 15:00:07要素の数は20
+2022-12-06 15:00:07配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 15:00:07 Markets 
+	
+
+
+ Fear & Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+  
+ 
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+  
+ 
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+  
+ 
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+  
+ 
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+  
+ 
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+    
+ 
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+  
+ 
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+  
+ 
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+  
+ 
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+  
+ 
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+  
+ 
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+  
+ 
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+  
+ 
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+  
+ 
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+
+2022-12-06 15:02:43要素の数は20
+2022-12-06 15:02:43配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 15:02:43 Markets 
+	
+
+ Fear & Greed Index 
+	
+
+ 
+            Latest Market News 
+	
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+   
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+   
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+   
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+   
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+   
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+     
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+   
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+   
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+   
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+   
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+   
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+   
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+   
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+   
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+   Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+2022-12-06 15:05:03要素の数は20
+2022-12-06 15:05:03配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 15:05:03 Markets 
+	
+
+ Fear & Greed Index 
+	
+
+ 
+            Latest Market News 
+	
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+   
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+   
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+   
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+   
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+   
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+     
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+   
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+   
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+   
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+   
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+   
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+   
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+   
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+   
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+   Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+2022-12-06 15:06:15要素の数は20
+2022-12-06 15:06:15配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 15:06:15 Markets 
+	
+
+ Fear & Greed Index 
+	
+
+ 
+            Latest Market News 
+	
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+   
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+   
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+   
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+   
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+   
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+     
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+   
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+   
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+   
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+   
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+   
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+   
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+   
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+   
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+   Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poorâs and S&P are registered trademarks of Standard & Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ & Â© 2016 Cable News Network.
+2022-12-06 15:08:50要素の数は20
+2022-12-06 15:08:50配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-06 15:08:50 Markets 
+	
+
+
+ Fear and Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The United Kingdom faces a âlost decadeâ of growth if action isnât taken to address slumping business investment and worker shortages, a leading business lobby group has warned.
+  
+ 
+      In a bleak economic forecast published on Monday, the Confederation of British Industry (CBI) said that three quarters of companies are struggling to find the skills and workers they need. It urged changes in government policy, including a more flexible immigration system and tax breaks to boost investment.
+  
+ 
+      âBritain is in stagflation â with rocketing inflation, negative growth, falling productivity and business investment. Firms see potential growth opportunities but a lack of âreasons to believeâ in the face of headwinds are causing them to pause investing in 2023,â CBI director general Tony Danker said in a statement. 
+  
+ 
+      âWe will see a lost decade of growth if action isnât taken. GDP is a simple multiplier of two factors: people and their productivity. But we donât have people we need, nor the productivity,â Danker added.
+  
+ 
+      The United Kingdom is the only G7 economy that still hasnât recovered fully from the pandemic. Soaring energy and food costs drove inflation to a 41-year high in October. Widespread strikes have become the norm in recent months as workers feel the sting of a worsening cost-of-living crisis.
+  
+ 
+      
+      In Britain, nearly 200,000 workers are striking on Black Friday
+    
+ 
+      UK workers suffered the biggest drop in their spending power in more than 20 years between April and June as average real wages â which take inflation into account â fell by 3%. The drop in real wages was less severe in the third quarter but was still one of the largest since official records began in 2001.
+  
+ 
+      In a sign of how disruptive strike action has become, Conservative Party chairman Nadim Zahawi said Sunday that the government is looking at bringing in the military to keep public services running.
+  
+ 
+      The outlook for the UK economy next year is among the weakest of the advanced nations covered by the CBI forecast, with only German GDP set to fall at a slightly faster pace. Germany has felt the full force of the energy crisis unleashed by Russiaâs invasion of Ukraine.
+  
+ 
+      The CBI expects the UK economy to shrink by 0.4% in 2023 â a significant downgrade from the growth of 1% it predicted in June. The economy is forecast to recover to its pre-Covid size only in the second quarter of 2024.
+  
+ 
+      Inflation should fall gradually over the coming year, but it will remain significantly above the Bank of Englandâs 2% target over 2023 and lead to a year-long decline in consumer spending, the CBI forecast.
+  
+ 
+      The group expects business investment to fall from the middle of next year, leaving it 9% below its pre-pandemic level at the end of 2024. Output per worker is expected to remain 2% below its âalready weakâ pre-Covid trend by that time, the CBI said.
+  
+ 
+      âWhile itâs some consolation that the upcoming recession will be shallow, itâs concerning that longer-term weakness in productivity and business investment appears to be bedding in,â the CBIâs lead economist, Alpesh Paleja, said in a statement. âIt does not bode well for living standards and the economyâs capacity to grow over the longer-term.â
+  
+ 
+      The group said the government should address investment shortfalls with permanent tax incentives, which it estimates will unlock an extra Â£50 billion ($61.4 billion) in capital investment per year by the end of the decade. 
+  
+ 
+      âWe cannot afford to have another decade where both [investment and productivity] are stagnant,â Danker said.
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the SandP 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of SandP Dow Jones Indices LLC and have been licensed for use to SandP Opco, LLC and CNN. Standard and Poorâs and SandP are registered trademarks of Standard and Poorâs Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright SandP Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ and Â© 2016 Cable News Network.
+
+2022-12-06 15:12:45要素の数は44
+2022-12-06 15:12:45配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Ukraine
+2022-12-06 15:12:45 Ukraine is switching to emergency shutdowns to stabilise its power grid after Monday's Russian missile attacks, President Volodymyr Zelensky has said.
+ He said many regions were affected, and the local authorities warned that about half of the Kyiv region would remain without electricity in the coming days.
+ Four people were killed in Monday's attacks.
+ Overnight, more missiles hit critical infrastructure near the southern city of Zaporizhzhia, officials said.
+ In a separate development on Tuesday, the governor of Russia's Kursk region said a drone attack on an airfield set an oil storage tank alight.
+ Video posted online shows fierce flames and dense black smoke billowing from the site.
+ There were no casualties, said Roman Starovoyt, but two local schools were closed for the day. He did not say who could be behind the attack in the region that borders Ukraine.
+ In Ukraine, the energy minister said he hoped to significantly reduce the power deficit caused by the latest Russian strikes by Tuesday evening, bringing nuclear power stations back onto the grid.
+ The country is now seeing snow and sub-zero temperatures in many regions, and millions are without electricity and running water. There are fears that a number of people may die of hypothermia.
+ In his video address late on Monday, President Zelensky said 70 Russian missiles were fired on Monday, and "most of them were shot down".
+ Mr Zelensky said "the biggest number of shutdowns is in Vinnytsia, Kyiv, Zhytomyr, Dnipropetrovsk, Odesa, Khmelnytskyi and Cherkasy regions", referring to regions spanning the length and breadth of the country.
+ But he pledged that the authorities "will do everything to restore stability".
+ The Ukrainian leader said electricity supplies were also affected in neighbouring Moldova, proving that Russia's actions were "a threat not only to Ukraine, but also to our entire region". 
+ The Russian defence ministry claimed it had carried out massive high-precision strikes on Ukraine's military command and control systems, and on other targets.
+ Monday's strikes were Russia's eighth massive missile attack in eight weeks, and came after days of repeated warnings that Moscow was planning the fresh assault.
+ The assault eventually arrived just hours after a series of explosions at two military airfields deep inside Russia, which Moscow blamed on Ukrainian drones intercepted by Russian air-defences. 
+ Three servicemen were killed and two aircraft were lightly damaged at the airfields in the Ryazan and Saratov region, the Russian defence ministry said. Ukraine has not publicly commented on the issue.
+ The two airfields - hundreds of kilometres from Ukraine's border - house Russian strategic bombers that have been used to carry out missile attacks since Moscow's full-scale invasion of Ukraine began on 24 February.
+ President Vladimir Putin chaired a meeting of Russia's security council on Tuesday - a meeting that usually happens on Fridays.
+ State TV showed a clip from his opening remarks, in which the Kremlin leader said the subject of the meeting would be state security.
+ Before the latest Russian strikes, officials in Kyiv were talking about moving from highly disruptive emergency blackouts, which often last for many hours, to more manageable scheduled power cuts which offer civilians some badly needed predictability.
+ Moscow has been battering Ukraine's power grid since 10 October, following a string of heavy military defeats on the battlefield.
+ Some Western leaders have called the strategy a war crime, because of the huge amount of damage caused to civilian infrastructure. 
+ Experts have told the BBC that Russia's tactic of hitting energy infrastructure is most likely designed to demoralise and terrorise the population, rather than gain any concrete military advantage.
+ Moscow has repeatedly denied the allegations.
+ Why millions of Ukrainians have no power as winter nears
+ War will be 'at reduced tempo' for months, says US
+ Is attacking Ukraine's power grid a war crime?
+ Indonesia passes law banning sex outside marriage
+ The lives changed by the 2012 Delhi gang rape
+ Emergency power shutdowns in Ukraine after attacks
+ Billie Eilish: Growing up in public has been bruising
+ The lives changed by the 2012 Delhi gang rape
+ Dazzling Brazil dismantle South Korea in last 16
+ Why is mac and cheese up in court? Take our timed quiz…
+ The spy, the president and the cash in the sofa
+ Inside the capital taken hostage by brutal gangs
+ The radical 'soft girl' trend millennials love
+ Why have so few elderly Chinese been vaccinated?
+ Inside the world of South Korean male beauty pageants
+ Zimbabwe's stunning 80km safari train
+ The misery of middle managers
+ The love song that became an anthem
+ © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+2022-12-06 15:13:55要素の数は44
+2022-12-06 15:13:55配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Ukraine
+2022-12-06 15:13:55 Ukraine is switching to emergency shutdowns to stabilise its power grid after Monday's Russian missile attacks, President Volodymyr Zelensky has said.
+ He said many regions were affected, and the local authorities warned that about half of the Kyiv region would remain without electricity in the coming days.
+ Four people were killed in Monday's attacks.
+ Overnight, more missiles hit critical infrastructure near the southern city of Zaporizhzhia, officials said.
+ In a separate development on Tuesday, the governor of Russia's Kursk region said a drone attack on an airfield set an oil storage tank alight.
+ Video posted online shows fierce flames and dense black smoke billowing from the site.
+ There were no casualties, said Roman Starovoyt, but two local schools were closed for the day. He did not say who could be behind the attack in the region that borders Ukraine.
+ In Ukraine, the energy minister said he hoped to significantly reduce the power deficit caused by the latest Russian strikes by Tuesday evening, bringing nuclear power stations back onto the grid.
+ The country is now seeing snow and sub-zero temperatures in many regions, and millions are without electricity and running water. There are fears that a number of people may die of hypothermia.
+ In his video address late on Monday, President Zelensky said 70 Russian missiles were fired on Monday, and "most of them were shot down".
+ Mr Zelensky said "the biggest number of shutdowns is in Vinnytsia, Kyiv, Zhytomyr, Dnipropetrovsk, Odesa, Khmelnytskyi and Cherkasy regions", referring to regions spanning the length and breadth of the country.
+ But he pledged that the authorities "will do everything to restore stability".
+ The Ukrainian leader said electricity supplies were also affected in neighbouring Moldova, proving that Russia's actions were "a threat not only to Ukraine, but also to our entire region". 
+ The Russian defence ministry claimed it had carried out massive high-precision strikes on Ukraine's military command and control systems, and on other targets.
+ Monday's strikes were Russia's eighth massive missile attack in eight weeks, and came after days of repeated warnings that Moscow was planning the fresh assault.
+ The assault eventually arrived just hours after a series of explosions at two military airfields deep inside Russia, which Moscow blamed on Ukrainian drones intercepted by Russian air-defences. 
+ Three servicemen were killed and two aircraft were lightly damaged at the airfields in the Ryazan and Saratov region, the Russian defence ministry said. Ukraine has not publicly commented on the issue.
+ The two airfields - hundreds of kilometres from Ukraine's border - house Russian strategic bombers that have been used to carry out missile attacks since Moscow's full-scale invasion of Ukraine began on 24 February.
+ President Vladimir Putin chaired a meeting of Russia's security council on Tuesday - a meeting that usually happens on Fridays.
+ State TV showed a clip from his opening remarks, in which the Kremlin leader said the subject of the meeting would be state security.
+ Before the latest Russian strikes, officials in Kyiv were talking about moving from highly disruptive emergency blackouts, which often last for many hours, to more manageable scheduled power cuts which offer civilians some badly needed predictability.
+ Moscow has been battering Ukraine's power grid since 10 October, following a string of heavy military defeats on the battlefield.
+ Some Western leaders have called the strategy a war crime, because of the huge amount of damage caused to civilian infrastructure. 
+ Experts have told the BBC that Russia's tactic of hitting energy infrastructure is most likely designed to demoralise and terrorise the population, rather than gain any concrete military advantage.
+ Moscow has repeatedly denied the allegations.
+ Why millions of Ukrainians have no power as winter nears
+ War will be 'at reduced tempo' for months, says US
+ Is attacking Ukraine's power grid a war crime?
+ Indonesia passes law banning sex outside marriage
+ The lives changed by the 2012 Delhi gang rape
+ Emergency power shutdowns in Ukraine after attacks
+ Billie Eilish: Growing up in public has been bruising
+ The lives changed by the 2012 Delhi gang rape
+ Dazzling Brazil dismantle South Korea in last 16
+ Why is mac and cheese up in court? Take our timed quiz…
+ The spy, the president and the cash in the sofa
+ Inside the capital taken hostage by brutal gangs
+ The radical 'soft girl' trend millennials love
+ Why have so few elderly Chinese been vaccinated?
+ Inside the world of South Korean male beauty pageants
+ Zimbabwe's stunning 80km safari train
+ The misery of middle managers
+ The love song that became an anthem
+ © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+2022-12-06 15:14:18要素の数は44
+2022-12-06 15:14:18配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Ukraine
+2022-12-06 15:14:18 Ukraine is switching to emergency shutdowns to stabilise its power grid after Monday's Russian missile attacks, President Volodymyr Zelensky has said.
+ He said many regions were affected, and the local authorities warned that about half of the Kyiv region would remain without electricity in the coming days.
+ Four people were killed in Monday's attacks.
+ Overnight, more missiles hit critical infrastructure near the southern city of Zaporizhzhia, officials said.
+ In a separate development on Tuesday, the governor of Russia's Kursk region said a drone attack on an airfield set an oil storage tank alight.
+ Video posted online shows fierce flames and dense black smoke billowing from the site.
+ There were no casualties, said Roman Starovoyt, but two local schools were closed for the day. He did not say who could be behind the attack in the region that borders Ukraine.
+ In Ukraine, the energy minister said he hoped to significantly reduce the power deficit caused by the latest Russian strikes by Tuesday evening, bringing nuclear power stations back onto the grid.
+ The country is now seeing snow and sub-zero temperatures in many regions, and millions are without electricity and running water. There are fears that a number of people may die of hypothermia.
+ In his video address late on Monday, President Zelensky said 70 Russian missiles were fired on Monday, and "most of them were shot down".
+ Mr Zelensky said "the biggest number of shutdowns is in Vinnytsia, Kyiv, Zhytomyr, Dnipropetrovsk, Odesa, Khmelnytskyi and Cherkasy regions", referring to regions spanning the length and breadth of the country.
+ But he pledged that the authorities "will do everything to restore stability".
+ The Ukrainian leader said electricity supplies were also affected in neighbouring Moldova, proving that Russia's actions were "a threat not only to Ukraine, but also to our entire region". 
+ The Russian defence ministry claimed it had carried out massive high-precision strikes on Ukraine's military command and control systems, and on other targets.
+ Monday's strikes were Russia's eighth massive missile attack in eight weeks, and came after days of repeated warnings that Moscow was planning the fresh assault.
+ The assault eventually arrived just hours after a series of explosions at two military airfields deep inside Russia, which Moscow blamed on Ukrainian drones intercepted by Russian air-defences. 
+ Three servicemen were killed and two aircraft were lightly damaged at the airfields in the Ryazan and Saratov region, the Russian defence ministry said. Ukraine has not publicly commented on the issue.
+ The two airfields - hundreds of kilometres from Ukraine's border - house Russian strategic bombers that have been used to carry out missile attacks since Moscow's full-scale invasion of Ukraine began on 24 February.
+ President Vladimir Putin chaired a meeting of Russia's security council on Tuesday - a meeting that usually happens on Fridays.
+ State TV showed a clip from his opening remarks, in which the Kremlin leader said the subject of the meeting would be state security.
+ Before the latest Russian strikes, officials in Kyiv were talking about moving from highly disruptive emergency blackouts, which often last for many hours, to more manageable scheduled power cuts which offer civilians some badly needed predictability.
+ Moscow has been battering Ukraine's power grid since 10 October, following a string of heavy military defeats on the battlefield.
+ Some Western leaders have called the strategy a war crime, because of the huge amount of damage caused to civilian infrastructure. 
+ Experts have told the BBC that Russia's tactic of hitting energy infrastructure is most likely designed to demoralise and terrorise the population, rather than gain any concrete military advantage.
+ Moscow has repeatedly denied the allegations.
+ Why millions of Ukrainians have no power as winter nears
+ War will be 'at reduced tempo' for months, says US
+ Is attacking Ukraine's power grid a war crime?
+ Indonesia passes law banning sex outside marriage
+ The lives changed by the 2012 Delhi gang rape
+ Emergency power shutdowns in Ukraine after attacks
+ Billie Eilish: Growing up in public has been bruising
+ The lives changed by the 2012 Delhi gang rape
+ Dazzling Brazil dismantle South Korea in last 16
+ Why is mac and cheese up in court? Take our timed quiz…
+ The spy, the president and the cash in the sofa
+ Inside the capital taken hostage by brutal gangs
+ The radical 'soft girl' trend millennials love
+ Why have so few elderly Chinese been vaccinated?
+ Inside the world of South Korean male beauty pageants
+ Zimbabwe's stunning 80km safari train
+ The misery of middle managers
+ The love song that became an anthem
+ © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+

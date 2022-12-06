@@ -92,9 +92,10 @@ array_push($array,$node->nodeValue);
 $_SESSION["char"] .= ' '.$node->nodeValue."\n";
 }
 
-echo '<br>●結合文の表示<br>';
-print_r($_SESSION["char"]); 
+$_SESSION["char"] = str_replace('&', 'and', $_SESSION["char"]);
 
+
+echo '<br>●書き込みサイトへ遷移<br>';
 echo '<form action="write.php" method="post"><br>配列
 <input type="text" name="array" value=';
 echo join(" ", $array); 
@@ -103,6 +104,10 @@ echo '><br>
 echo $counter; 
 echo '>
 <input type="submit" value="送信"> </form>' ; 
+
+
+echo '<br>●結合文の表示<br>';
+print_r($_SESSION["char"]); 
 
 // $time = date('Y-m-d H:i:s');
 // // ファイルに書き込み
