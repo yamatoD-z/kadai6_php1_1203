@@ -35,14 +35,17 @@ fclose($file);
         <li><a href="read.php">確認する</a></li>
         <li><a href="input.php">戻る</a></li>
     </ul>
+
+    <!-- せっかくなので翻訳機能を再利用 -->
+    <!-- 一部の特殊文字が含まれると、DeepLのAPIでエラーが出ることを確認 -->
     <h2 style='font-size:2rem'>DeepL翻訳（言語に応じて、英訳か和約を選択。）</h2>
     <br>
-    <textarea id="final_span" cols="100" rows="15"><?=$_SESSION["char"]?></textarea>
+    <textarea id="final_span" cols="75" rows="15"><?=$_SESSION["char"]?></textarea>
     <br>
     <button id="translateVoiceEN" class="button">英訳</button>
     <button id="translateVoiceJP" class="button">和訳</button>
     <br>
-    <textarea id="resultDeepl" cols="100" rows="50"></textarea>
+    <textarea id="resultDeepl" cols="75" rows="75"></textarea>
     <br>
 
 
@@ -93,6 +96,8 @@ fclose($file);
         xhr.send(data);
     };
     </script>
+
+    <!-- 翻訳結果も書き込んで良いかも -->
 
 
 </body>

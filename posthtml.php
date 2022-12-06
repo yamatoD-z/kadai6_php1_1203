@@ -16,11 +16,11 @@
         <ul>
             <li>URLを指定。</li>
             <li>タグ名を指定。（h3,とか）</li>
-            <li>URL例　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E7%8C%AA%E6%9C%A8</li>
-            <li>タグ例　h3</li>
+            <li>URL例　https://edition.cnn.com/2022/12/05/investing/premarket-stocks-trading</li>
+            <li>タグ例　p</li>
         </ul>
     </div>
-
+    <!-- 次のページで受け取ったURLとタグ名を使って処理する -->
     <form action="post.php" method="post">
         URL: <input type="text" name="URL" size="50">
         <br>

@@ -46,21 +46,8 @@ $options =array(
 );
 
 
-
+// 基本文法
 // https://pig-data.jp/blog_news/blog/scraping-crawling/php/
-
-// h2タグを指定する場合
-// $dom = new DOMDocument('1.0', 'UTF-8');
-// $html = file_get_contents("https://pig-data.jp/usecase/pigexample16/");
-// @$dom->loadHTML($html);
-// $xpath = new DOMXpath($dom);
-// //h2の部分を変更することで他のタグなど指定が可能
-// foreach($xpath->query('//h2') as $node){
-// echo "<p>";
-    // //h2の内容を1つずつ表示させる
-    // echo $node->nodeValue;
-    // echo "</p>";
-// }
 
 // クラスで指定する際に参考にしたもの
 // https://php-archive.net/php/dom-scraping/
@@ -68,11 +55,9 @@ $options =array(
 
 $dom = new DOMDocument('1.0', 'UTF-8');
 $html = file_get_contents($URL);
-// $html =file_get_contents("https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E7%8C%AA%E6%9C%A8");
-
 @$dom->loadHTML($html);
 $xpath = new DOMXpath($dom);
-//classの部分はidでも良い、タグ名も指定できる。
+//タグの部分は、classでもidでも良い。ただし、書き方は異なってくる
 $counter = 0;
 $array =[];
 $_SESSION["char"]='';
@@ -80,7 +65,7 @@ $_SESSION["char"]='';
 echo '<br>●要素の表示<br>';
 
 foreach($xpath->query('//'.$Tag) as $node){
-echo '<form action="write.php" method="post"> 商品名';
+echo '<form action="write.php" method="post"> 要素';
     echo $counter+1;
     echo '<input type="text" size="50" name="name';
 echo $counter+1;
@@ -88,13 +73,15 @@ echo '" value="';
 echo $node->nodeValue; 
 echo '"></form>';
 $counter++;
+// h2などのタグを扱うには配列が便利だと思う。一方で、pから本文を抜き出す場合は配列より、結合した集合が便利なので、別途、文字列を作成
 array_push($array,$node->nodeValue);
 $_SESSION["char"] .= ' '.$node->nodeValue."\n";
 }
-
+// <!-- 一部の特殊文字が含まれると、DeepLのAPIでエラーが出ることを確認
+// とりあえず＆がダメだったので、置換
 $_SESSION["char"] = str_replace('&', 'and', $_SESSION["char"]);
 
-
+// ここで書き込んでも良いが機能別でファイルを分割
 echo '<br>●書き込みサイトへ遷移<br>';
 echo '<form action="write.php" method="post"><br>配列
 <input type="text" name="array" value=';
@@ -119,6 +106,8 @@ print_r($_SESSION["char"]);
 
 usleep(rand(300,700));
 
+// 以下は残骸。当初はブランドのＷｅｂサイトの商品を取ろうとした。
+// クラス名を指定する書き方は以下に含まれる
 // echo '<h1>日本</h1>';
 // $domJP = new DOMDocument('1.0', 'UTF-8');
 // $htmlJP =file_get_contents("https://www.hermes.com/jp/ja/category/women/bags-and-small-leather-goods/bags-and-clutches/#|",false,stream_context_create($options));
