@@ -6,19 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+
+    <ul>
+        <li><a href="read.php">確認する</a></li>
+        <li><a href="input.php">戻る</a></li>
+    </ul>
 </head>
-
-<body>
-
-    対象アドレス: <input type="text" id='address' name="address" size="50">
-    <br>
-    タグ名: <input type="text" id='tag' name="tag">
-    <!-- パスワード欄を追加してみる。 -->
-
-</body>
 
 
 <?php
+
+session_start();
 
 function h($str)
 {
@@ -67,70 +66,85 @@ $options =array(
 // https://php-archive.net/php/dom-scraping/
 
 
-echo '<h1>日本</h1>';
 $dom = new DOMDocument('1.0', 'UTF-8');
-$html = file_get_contents("https://pig-data.jp/usecase/pigexample16/");
+$html = file_get_contents($URL);
 // $html =file_get_contents("https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E7%8C%AA%E6%9C%A8");
-// $html =file_get_contents("https://www.hermes.com/jp/ja/category/women/bags-and-small-leather-goods/bags-and-clutches/#|",false,stream_context_create($options));
+
 @$dom->loadHTML($html);
 $xpath = new DOMXpath($dom);
 //classの部分はidでも良い、タグ名も指定できる。
-$counter = 1;
+$counter = 0;
 $array =[];
+$_SESSION["char"]='';
 
-$aa = '//h2';
-foreach($xpath->query($aa) as $node){
-// foreach($xpath->query('//*[@class="product-item-name"]') as $node){
+echo '<br>●要素の表示<br>';
+
+foreach($xpath->query('//'.$Tag) as $node){
 echo '<form action="write.php" method="post"> 商品名';
-    echo $counter;
-    echo '<input type="text" name="name';
-echo $counter;
+    echo $counter+1;
+    echo '<input type="text" size="50" name="name';
+echo $counter+1;
 echo '" value="';
 echo $node->nodeValue; 
-echo '"><input type="submit" value="送信"> </form>';
+echo '"></form>';
 $counter++;
 array_push($array,$node->nodeValue);
-usleep(500);
+$_SESSION["char"] .= ' '.$node->nodeValue."\n";
 }
 
-print_r($array);
-echo '<form action="write.php" method="post"> 総ワード
-    <input type="text" name="array" value=';
-echo implode( ',',($array)); 
-echo '><input type="submit" value="送信"> </form>' ; echo '<form action="write.php" method="post"> 商品数
-<input type="text" name="counter" value=' ; 
-echo $counter-1; echo '><input type="submit" value="送信"> </form>' ; 
+echo '<br>●結合文の表示<br>';
+print_r($_SESSION["char"]); 
+
+echo '<form action="write.php" method="post"><br>配列
+<input type="text" name="array" value=';
+echo join(" ", $array); 
+echo '><br>
+商品数 <input type="text" name="counter" value=' ; 
+echo $counter; 
+echo '>
+<input type="submit" value="送信"> </form>' ; 
+
+// $time = date('Y-m-d H:i:s');
+// // ファイルに書き込み
+// $file = fopen('data/data.txt', 'a');
+// fwrite($file, $time . $_SESSION["char"] . $counter . "\n");
+// fclose($file);
 
 
-echo '<h1>日本</h1>';
-$dom = new DOMDocument('1.0', 'UTF-8');
-$html =file_get_contents("https://www.hermes.com/jp/ja/category/women/bags-and-small-leather-goods/bags-and-clutches/#|",false,stream_context_create($options));
-@$dom->loadHTML($html);
-$xpath = new DOMXpath($dom);
-//classの部分はidでも良い、タグ名も指定できる。
-$counter = 1;
-$arrayJP =[];
 
-foreach($xpath->query('//*[@class="product-item-name"]') as $node){
-echo '<form action="write.php" method="post"> 商品名';
-    echo $counter;
-    echo '<input type="text" name="nameJP';
-echo $counter;
-echo '" value="';
-echo $node->nodeValue; 
-echo '"><input type="submit" value="送信"> </form>';
-$counter++;
-array_push($arrayJP,$node->nodeValue);
-usleep(500);
-}
+usleep(rand(300,700));
 
+// echo '<h1>日本</h1>';
+// $domJP = new DOMDocument('1.0', 'UTF-8');
+// $htmlJP =file_get_contents("https://www.hermes.com/jp/ja/category/women/bags-and-small-leather-goods/bags-and-clutches/#|",false,stream_context_create($options));
+// @$domJP->loadHTML($htmlJP);
+// $xpath = new DOMXpath($domJP);
+// //classの部分はidでも良い、タグ名も指定できる。
+// $counterJP = 1;
+// $arrayJP =[];
 
-print_r($arrayJP);
-echo '<form action="write.php" method="post"> 総ワード
-    <input type="text" name="arrayJP" value=';
-echo implode( ',',($arrayJP)); echo '><input type="submit" value="送信"> </form>' ; echo '<form action="write.php" method="post"> 商品数
-<input type="text" name="counterJP" value=' ; echo $counter-1; echo '><input type="submit" value="送信"> </form>' ; //
+// foreach($xpath->query('//*[@class="product-item-name"]') as $nodeJP){
+// echo '<form action="write.php" method="post"> 商品名';
+//     echo $counterJP;
+//     echo '<input type="text" name="nameJP';
+// echo $counterJP;
+// echo '" value="';
+// echo $nodeJP->nodeValue; 
+// echo '"><input type="submit" value="送信"> </form>';
+// $counterJP++;
+// array_push($arrayJP,$nodeJP->nodeValue);
+// }
 
+// print_r($arrayJP);
+// echo '<form action="write.php" method="post"> 総ワード
+//     <input type="text" name="arrayJP" value=';
+// echo implode( ',',($arrayJP)); 
+// echo '><input type="submit" value="送信"> </form>' ; 
+// echo '<form action="write.php" method="post"> 商品数
+// <input type="text" name="counterJP" value=' ; 
+// echo $counter-1; 
+// echo '><input type="submit" value="送信"> </form>' ; //
+// usleep(rand(300,700));
 
 // echo '<h1>UK</h1>' ; 
 // $dom=new DOMDocument('1.0', 'UTF-8' ); //
@@ -143,9 +157,9 @@ echo implode( ',',($arrayJP)); echo '><input type="submit" value="送信"> </for
         // //取った結果を1つずつ表示させる
         // echo $node->nodeValue;
         // echo "</p>";
-        // usleep(500);
-    // }
-
+        // }
+        
+        // usleep(rand(300,700));
 
     // echo '<h1>Hong Kong</h1>';
     // $dom = new DOMDocument('1.0', 'UTF-8');
@@ -159,9 +173,9 @@ echo implode( ',',($arrayJP)); echo '><input type="submit" value="送信"> </for
     //     echo $node->nodeValue;
     //     echo "</p>";
         
-    //     usleep(500);
     // }
-
+    
+    //     usleep(rand(300,700));
 
     // echo '<h1>Singapore</h1>';
     // $dom = new DOMDocument('1.0', 'UTF-8');
@@ -174,9 +188,9 @@ echo implode( ',',($arrayJP)); echo '><input type="submit" value="送信"> </for
         // //取った結果を1つずつ表示させる
         // echo $node->nodeValue;
         // echo "</p>";
-        // usleep(500);
-    // }
-
+        // }
+        
+        // usleep(rand(300,700));
 
 
 

@@ -1,1 +1,612 @@
-2022-12-04 15:39:00
+2022-12-06 13:29:42要素の数は65
+2022-12-06 13:29:42 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:29:42配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる<br>You
+2022-12-06 13:31:52要素の数は65
+2022-12-06 13:31:52配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:31:52 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:39:10要素の数は65
+2022-12-06 13:39:10配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:39:10 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:47:10要素の数は65
+2022-12-06 13:47:10配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:47:10 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:47:46要素の数は65
+2022-12-06 13:47:46配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:47:46 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:49:36要素の数は65
+2022-12-06 13:49:36配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:49:36 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 13:50:18要素の数は65
+2022-12-06 13:50:18配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 13:50:18 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 14:04:57要素の数は65
+2022-12-06 14:04:57配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 14:04:57 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
+2022-12-06 14:50:56要素の数は65
+2022-12-06 14:50:56配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→You
+2022-12-06 14:50:56 You are currently accessing Risk.net via your Enterprise account.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access or would like to request an individual access account please contact our customer service team.
+ Phone: 1+44 (0)870 240 8859
+ Email: csqueries@infopro-digital.com
+ You are currently accessing Risk.net via your institutional login.
+ If you already have an account please use the link below to sign in.
+ If you have any problems with your access, contact our customer services team.
+ Phone: +44 20 7316 9685
+ Email: csqueries@infopro-digital.com
+ Follow
+ Asia
+ In a tumultuous year for investors, sharp rises in interest rates, macro volatility and a sustained selloff in equity markets have kept them on their toes. But a new investment paradigm is emerging, and many investors are looking beyond traditional asset classes for portfolio diversification.
+ In Japan, Credit Suisse has worked with clients to deliver an impressive array of solutions with which to adapt to changing market conditions.
+ One of many striking examples from the past year was the launch of a new fund, which offers a new way for sophisticated individuals to invest in private equity.
+ In Japan’s ultra-low interest rate environment, there is increasing interest in alternative assets, such as venture capital. But, thanks to a range of technical hurdles, the asset class has traditionally been accessible only to institutional investors.
+ The Daiwa WiL Ventures III, LP Fund is designed to overcome these hurdles for individual investors.
+ “This is the first solution in the Japanese market allowing retail investors to invest in US and Japan private equity as far as we are aware,” says Ryosuke Ishizawa, head of investment solutions sales in Japan. “Diversification with traditional assets hasn’t worked well in this year’s market environment. So alternative investments might be a good portfolio-diversification candidate, but alternative investments tend to be limited to institutional or pension clients, due to the complexity.”
+ Launching a public fund that could be offered to individual investors demands some out-of-the-box thinking. First, investors are required to fund the product upfront, to deal with the capital calls that investors are required to make on-demand when investing in private equity. The upfront funding is then fed into certain liquidity management products to maintain the overall yield.
+ And to make the fund liquid enough to be considered a public fund under Japanese regulation, special-purpose vehicles (SPVs) were used, alongside an arrangement with a liquidity provider. Credit Suisse’s strong track record in SPV issuance make it well placed to deliver the solution.
+ “Because of securing that liquidity, the fund structure is no longer regarded as an illiquid investment. That is why we can bring this fund to Japan to sell to a larger investor base,” he says.
+ The fund, which comes with a minimum ticket size of $1 million, has been a huge hit with investors since its launch in May.
+ “I think it’s a good example of how we can articulate different platforms and make a combination that brings value to the client,” says Romain Barba, head of equity derivatives and investment solutions structuring in Japan. “We intend to repeat this structure over the coming years, potentially with larger capacity.”
+ Another novel structure Credit Suisse is offering to Japanese investors for the first time this year is the operational risk bond.
+ While Credit Suisse has been issuing operational risk bonds elsewhere since 2016, the 2022 vintage has some revised features – such as a new spread – corresponding to the current op risk environment. The idea is simple, yet innovative. Credit Suisse takes out an operational risk insurance policy – covering risks such as losses from system disruptions or legal and compliance issues – and then uses an SPV to securitise and sell the bonds to investors in the capital markets.
+ The bonds’ investors start to lose money if the bank suffers losses of more than $3.5 billion in the space of a year. Historically, however, Credit Suisse’s operational losses have been in the order of $100 million–200 million, meaning previous investors in the bonds have suffered no impairment.
+ The bonds are attractive to both the bank and its investors. For the bank, it offers a means to lower the amount of capital needed to set aside for operational risk losses. For investors, it offers an investment product with a very attractive coupon – typically 3-month rate plus 4.5%, or more – which, importantly, in the current market environment, is independent of moves in other financial assets.
+ “There’s no correlation with credit, and there’s no correlation with market parameters,” says Go Matsui, head of leading financial institutions solutions sales in Japan at Credit Suisse. “It is a unique type of risk, and something we have not marketed to investors in Japan before.”
+ Interest from Japanese investors in the bonds has been very strong, illustrating continued interest for a transaction offering exposure to attractive yield and a unique risk, as well as confidence in Credit Suisse’s risk management capabilities in the current environment.
+ The bonds are a “win-win” for both the bank and investors, Matsui says.
+ “Investors are able to get attractive yield compared to its risk,” he says. “And because of the capital we need to hold against this type of risk, we can pay this spread of 4.5% over a three-month rate.”
+ Some Japanese institutions have been so impressed they are even making enquiries to Credit Suisse about the structure, with a view to potentially doing something similar.
+ “The feedback we’ve had from investors in Japan is quite encouraging,” says Barba. “They are interested in it not only from a risk-return perspective. They are also interested in the structure and mechanism of these bonds so that they can control their operational risk. That shows you how innovative this structure is.”
+ In the past year, Credit Suisse has also broken new ground in sustainability finance with its work as the sole structurer and arranger on the world’s largest blue-bond financing for the government of Belize. The firm’s placement of this structured debt with Japanese investors was key to the deal’s success.
+ The yield on Belize’s borrowing was previously very high and was pushing it towards a debt crisis. Marine ecosystems are, meanwhile, important to the country’s ecotourism industry, and especially the economic prosperity of its coastal areas.
+ Credit Suisse teamed up with The Nature Conservancy (TNC), a global environmental organisation headquartered in Virginia, USA, to structure a sustainable financing solution for the country.
+ Through the bond, announced last November, Belize was able to restructure the entirety of its debt at a lower interest rate. The proceeds reduced Belize’s overall external indebtedness by roughly 12% of gross domestic product, while generating an estimated $180 million for conservation.
+ “What that means is that firstly an emerging market country is no longer having to waste so much of its budget paying off this debt, but also the money can be freed up to be used to invest in cleaning up the ocean,” says Shigeyuki Takahashi, head of cross-asset structuring in Japan at Credit Suisse.
+ The firm achieved this impressive outcome by leveraging its structuring expertise, market-leading repackaging technology and a network of Japanese investor clients.
+ The blue bond is a $364 million amortising 19-year fixed rate instrument, issued by an SPV and secured by a loan to Belize Blue Investment Company, a subsidiary of TNC.
+ The loan is insured by the US International Development Finance Corporation (DFC) and on the strength of that insurance policy, the bonds received an Aa2 credit rating from Moody’s.
+ The bank opened the syndication of blue bonds to a select group of Japanese investors, offering the investment in various currencies and a clean note format, through repackaged transactions. A large block of the bonds was taken up by a single Japanese insurance company.
+ “We have two SPVs and one SPV issuing the note and then using the proceeds of [that] note the SPV is [then] making a loan to another SPV,” says Takahashi. “We then worked with the DFC in providing insurance for that loan, which could provide more favourable financial conditions to Belize.”
+ “The beauty of this structure is that we have a good possibility to replicate the same structure or similar structure for other sovereigns,” he says. “We’re expecting to do similar transactions for other sovereigns in the future.”
+ Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. 
+ To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http://subscriptions.risk.net/subscribe
+ You are currently unable to print this content. Please contact info@risk.net to find out more.
+ You are currently unable to copy this content. Please contact info@risk.net to find out more.
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Printing this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Copyright Infopro Digital Limited. All rights reserved.
+ You may share this content using our article tools. Copying this content is for the sole use of the Authorised User (named subscriber), as outlined in our terms and conditions - https://www.infopro-insight.com/terms-conditions/insight-subscriptions/
+ If you would like to purchase additional rights please email info@risk.net
+ Regulated venues say rival firms might unfairly escape oversight in activities such as blocking trades and price aggregation
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ Support
+ Services
+ Legal & Privacy
+ Useful links
+ © Infopro Digital Risk (IP) Limited (2022). All rights reserved. Published by Infopro Digital Services Limited, 133 Houndsditch, London, EC3A 7BX. Companies are registered in England and Wales with company registration numbers 09232733 & 04699701.
+ Best Digital B2B Publishing Company
+ You need to sign in to use this feature. If you don’t have a Risk.net account, please register for a trial.
+ To use this feature you will need an individual account. If you have one already please sign in.
+ Alternatively you can request an individual account here:
+
