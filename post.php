@@ -84,6 +84,7 @@ foreach($xpath->query('//'.$Tag) as $nodeJP){
 // <!-- 一部の特殊文字が含まれると、DeepLのAPIでエラーが出ることを確認
 // とりあえず＆がダメだったので、置換
 $_SESSION["char"] = str_replace('&', 'and', $_SESSION["char"]);
+$_SESSION["char"] = str_replace('â', "'", $_SESSION["char"]);
 
 // ここで書き込んでも良いが機能別でファイルを分割
 echo '<br>●書き込みサイトへ遷移<br>';
