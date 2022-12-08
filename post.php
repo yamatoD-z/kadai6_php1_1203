@@ -16,9 +16,10 @@
 
 
 <?php
-
+// 編集した文章はフォームで飛ばせなかったため、セクション変数にて次ページで使用した
 session_start();
 
+// セットするも使用せず
 function h($str)
 {
     return htmlspecialchars($str, ENT_QUOTES);
@@ -28,6 +29,7 @@ $Tag = $_POST['Tag'];
 
 
 // ユーザーエージェントの設定
+// ブランドサイトをブロックされた際に追加。
 // https://ysklog.net/php/1134.html
 
 //ヘッダーの設定
@@ -46,7 +48,7 @@ $options =array(
 );
 
 
-// 基本文法
+// スクレイピングの基本文法
 // https://pig-data.jp/blog_news/blog/scraping-crawling/php/
 
 // クラスで指定する際に参考にしたもの
@@ -57,13 +59,14 @@ $dom = new DOMDocument('1.0', 'UTF-8');
 $html = file_get_contents($URL);
 @$dom->loadHTML($html);
 $xpath = new DOMXpath($dom);
-//タグの部分は、classでもidでも良い。ただし、書き方は異なってくる
+
 $counter = 0;
 $array =[];
 $_SESSION["char"]='';
 
 echo '<br>●要素の表示<br>';
 
+//タグの部分は、classでもidでも良い。ただし、書き方は異なってくる
 foreach($xpath->query('//'.$Tag) as $node){
 echo '<form action="write.php" method="post"> 要素';
     echo $counter+1;
