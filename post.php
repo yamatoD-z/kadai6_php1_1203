@@ -67,18 +67,19 @@ $_SESSION["char"]='';
 echo '<br>●要素の表示<br>';
 
 //タグの部分は、classでもidでも良い。ただし、書き方は異なってくる
-foreach($xpath->query('//'.$Tag) as $node){
-echo '<form action="write.php" method="post"> 要素';
+// foreach($xpath->query('//'.$Tag) as $node){
+foreach($xpath->query('//'.$Tag) as $nodeJP){
+    echo '<form action="write.php" method="post"> 要素';
     echo $counter+1;
     echo '<input type="text" size="50" name="name';
-echo $counter+1;
-echo '" value="';
-echo $node->nodeValue; 
-echo '"></form>';
-$counter++;
-// h2などのタグを扱うには配列が便利だと思う。一方で、pから本文を抜き出す場合は配列より、結合した集合が便利なので、別途、文字列を作成
-array_push($array,$node->nodeValue);
-$_SESSION["char"] .= ' '.$node->nodeValue."\n";
+    echo $counter+1;
+    echo '" value="';
+    echo $nodeJP->nodeValue; 
+    echo '"></form>';
+    $counter++;
+    // h2などのタグを扱うには配列が便利だと思う。一方で、pから本文を抜き出す場合は配列より、結合した集合が便利なので、別途、文字列を作成
+    array_push($array,$nodeJP->nodeValue);
+    $_SESSION["char"] .= ' '.$nodeJP->nodeValue."\n";
 }
 // <!-- 一部の特殊文字が含まれると、DeepLのAPIでエラーが出ることを確認
 // とりあえず＆がダメだったので、置換
