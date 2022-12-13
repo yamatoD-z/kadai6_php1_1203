@@ -137,3 +137,203 @@
  To continue, upgrade to a supported browser or, for the finest experience, download the mobile app.
  Upgraded but still having issues? Contact us
 
+2022-12-09 15:36:00要素の数は20
+2022-12-09 15:36:00配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-09 15:36:00 Markets 
+	
+
+
+ Fear and Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      Sam Bankman-Fried, the founder of the failed crypto exchange FTX, has agreed to testify before the Senate Banking Committee next week as questions and confusion swirl about the collapse of his companies.
+  
+ 
+      On Friday, he tweeted that he's âwilling to testify on [December] 13thâ  and said he will âtry to be helpful, and to shed what like I canâ about several of lawmakers' concerns, including FTX US' solvency, âpathwaysâ that could return âvalueâ to users, what he thinks about what led to the crash, and, finally, his âown failings.â
+  
+ 
+      âI had thought of myself as a model CEO, who wouldn't become lazy or disconnected,â Bankman-Fried wrote on Twitter. âWhich made it that much more destructive when I did. I'm sorry. Hopefully people can learn from the difference between who I was and who I could have been.â
+  
+ 
+      His tweets are in response to a demand from several members of Congress who demanded testimony.
+  
+ 
+      Democratic chairman Sen. Sherrod Brown of Ohio and Republican Sen. Pat Toomey of Pennsylvania have asked him to appear because âsignificant unanswered questionsâ surrounding the collapse of FTX and its sister hedge fund, Alameda, both of which filed for bankruptcy on November 11.
+  
+ 
+      âYou must answer for the failure of both entities that was caused, at least in part, by the clear misuse of client funds and wiped out billions of dollars owed to over a million creditors,â the senators wrote.
+  
+ 
+      Initially, It wasn't clear whether Bankman-Fried would comply. Bankman-Fried had tweeted Sunday that he felt he had a âduty to appear before the committee and explain,â but he was unsure of the timing.
+  
+ 
+      Separately, Sens. Elizabeth Warren of Massachusetts and Tina Smith of Minnesota, both Democrats, sent letters to three regulators â the Federal Reserve, the Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency â asking them to assess the traditional banking system's exposure to turmoil in the crypto space, a largely unregulated, parallel financial system.
+  
+ 
+      âCrypto firms may have closer ties to the banking system than previously understood,â Warren and Smith wrote. âBanks' relationships with crypto firms raise questions about the safety and soundness of our banking system and highlight potential loopholes that crypto firms may try to exploit to gain further access.â
+  
+ 
+      Federal prosecutors are investigating the collapse of FTX, an exchange that marketed itself as a beginner-friendly way to get involved in what was, until recently, a booming if highly volatile market for digital assets. FTX also facilitated high-risk leveraged trading that wasn't allowed inside the United States. (The firm was based in The Bahamas.)
+  
+ 
+      FTX was one of the biggest crypto exchanges in the world until last month, when it faced a sudden wave of customer withdrawals that it couldn't cover. One of the key questions prosecutors are likely to probe is whether FTX misappropriated customer funds when it made loans to Alameda.
+  
+ 
+      Bankman-Fried has denied accusations of misusing customer deposits. âI didn't knowingly commingle funds,â he told The New York Times last week. âI was frankly surprised by how big Alameda's position was.â
+  
+ 
+      Federal prosecutors are also investigating whether Bankman-Fried played a role in the collapse this spring of two interlinked cryptocurrencies, Terra and Luna, according to the New York Times, which cited two people familiar with the matter.
+  
+ 
+      The Times said the issue is part of a broadening inquiry into the collapse of FTX, and it's not clear whether prosecutors have determined any wrongdoing by Bankman-Fried.
+  
+ 
+      In a statement to the paper, Bankman-Fried said he was ânot aware of any market manipulation and certainly never intended to engage in market manipulation.â
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the SandP 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of SandP Dow Jones Indices LLC and have been licensed for use to SandP Opco, LLC and CNN. Standard and Poor's and SandP are registered trademarks of Standard and Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright SandP Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ and Â© 2016 Cable News Network.
+
+2022-12-13 14:40:50要素の数は20
+2022-12-13 14:40:50配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Markets
+2022-12-13 14:40:50 Markets 
+	
+
+
+ Fear and Greed Index 
+	
+
+
+ 
+            Latest Market News 
+	
+
+
+ 
+      The Securities and Exchange Commission charged Sam Bankman-Fried on Tuesday with defrauding investors and customers in his failed crypto exchange FTX.
+  
+ 
+      The SEC said Bankman-Fried, âorchestrated a years-long fraudâ to conceal from FTX investors the diversion of customer funds to Alameda Research, his crypto trading firm. 
+  
+ 
+      âWe allege that Sam Bankman-Fried built a house of cards on a foundation of deception while telling investors that it was one of the safest buildings in crypto,â SEC Chair Gary Gensler said in a statement.
+  
+ 
+      Regulators signaled this may be just the first of multiple charges to come. The SEC said there are ongoing investigations into âother securities law violationsâ and into other entities and individuals. The agency added that another regulator, the Commodity Futures Trading Commission, is also charging Bankman-Fried. 
+  
+ 
+      Bankman-Fried's lawyer was not immediately available for comment.
+  
+ 
+      Known as âSBF,â Bankman-Fried is the 30-year-old crypto celebrity who became a pariah overnight last month as his company suffered a liquidity crisis and filed for bankruptcy, leaving at least a million depositors unable to access their funds. He was arrested without incident at his Bahamas apartment complex shortly after 6 pm ET Monday, and is set to appear in a Nassau court Tuesday, the Royal Bahamas Police Force said Monday in a statement. 
+  
+ 
+      FTX achieved a $32 billion valuation by raising more than $1.8 billion since launching in May 2019, including from sophisticated investors such as BlackRock, Sequoia Capital and the Ontario Teachers' Pension Plan. Star athletes and celebrities who backed FTX also reportedly received a stake in the company, including Tom Brady and Gisele.  
+  
+ 
+      The SEC alleges that Bankman-Fried, 30, duped those investors who backed FTX by promoting it as a âsafe, responsibleâ crypto trading firm that used âsophisticated, automatedâ risk measures to protect customer funds.
+  
+ 
+      In reality, the complaint alleges, Bankman-Fried secretly diverted FTX customer funds to effectively provide an âunlimited âline of credit'â to Alameda. The SEC says Bankman-Fried further concealed from investors the risk stemming from FTX's exposure to significant holdings of overvalued, illiquid assets such as FTX-related tokens. 
+  
+ 
+      Bankman-Fried didn't just use the FTX customer funds to make risky bets at his hedge fund. The SEC alleges he used that money to make undisclosed venture investments, make âlavishâ real estate purchases and large political donations. 
+  
+ 
+      âFTX operated behind a veneer of legitimacy Mr. Bankman-Fried created by, among other things, touting its best-in-class controls, including a proprietary ârisk engine,' and FTX's adherence to specific investor protection principles and detailed terms of service,â Gurbir Grewal, director of the SEC's division of enforcement, said in a statement. âBut as we allege in our complaint, that veneer wasn't just thin, it was fraudulent.â
+  
+ 
+      In the four weeks since FTX filed for bankruptcy, Bankman-Fried has sought to cast himself as a somewhat hapless chief executive who got out over his skis, denying accusations that he defrauded FTX's customers. 
+  
+ 
+      âI didn't knowingly commit fraud,â he told the BBC over the weekend. âI didn't want any of this to happen. I was certainly not nearly as competent as I thought I was.â
+  
+ 
+      But Bankman-Fried has previously admitting making mistakes while leading FTX, which he stepped down from last month after it filed for bankruptcy.
+  
+ 
+      âLook, I screwed up,â Bankman-Fried said during a virtual appearance at the New York Times' DealBook Summit. âThere are things I would do anything to do over.â
+  
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the SandP 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of SandP Dow Jones Indices LLC and have been licensed for use to SandP Opco, LLC and CNN. Standard and Poor's and SandP are registered trademarks of Standard and Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright SandP Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+ Â© 2022 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans â¢ and Â© 2016 Cable News Network.
+
+2022-12-13 15:06:10要素の数は71
+2022-12-13 15:06:10配列はスペースを含む文字列の場合、インプットセルの中に反映しきれず、最初の文字だけ出てくる→Live
+2022-12-13 15:06:10 Live
+ FTX founder charged
+ Live
+ Key inflation report
+ Live
+ Russia's war in Ukraine
+ By Kathleen Magramo, Jack Guy and Adrienne Vogt, CNN
+ From CNN’s Marguerite Lacroix and Allegra Goodwin
+ 
+ 
+ More than one billion dollars was pledged to support Ukraine during a bleak winter at a conference in Paris Tuesday, France’s foreign minister said.
+ The money, pledged by 46 countries and 24 international organizations, will be split between restoring Ukraine’s depleted energy network, the food sector, water supply, health and transportation, Minister for Europe and Foreign Affairs Catherine Colonna told the conference, adding that $520 million of funding was yet to be allocated. 
+ The announcement comes after Ukrainian President Volodymyr Zelensky called for $843 million in aid in a virtual address to delegates at the conference, as millions of Ukrainians face a freezing winter under the shadow of Russia’s war, without access to electricity, water and central heating.
+ From CNN’s Anna Chernova
+ Belarusian President Alexander Lukashenko has appointed Sergei Aleinik as new foreign minister, state news agency Belta reported Tuesday.
+ Prior to this appointment, Aleinik worked in the foreign ministry as first deputy minister.
+ Belarus’ previous longstanding foreign minister, Vladimir Makei, died suddenly in November at the age of 64.
+ Lukashenko also appointed Andrei Lukyanovich as commander of the Air Force and Air Defense Forces of the Armed Forces of the Republic of Belarus, Belta said.
+ Belarus earlier on Tuesday announced snap military drills across the country. 
+ From CNN staff 
+ Ukrainian President Volodymyr Zelensky has asked world leaders gathered at a conference in Paris for more aid to help his country survive Russian attacks on critical infrastructure this winter. 
+ Meanwhile, a key bridge used to resupply Russian forces occupying the city of Melitopol in southern Ukraine has been targeted.
+ Here are the latest headlines:
+ From CNN's Seb Shukla and Teele Rebane
+ 
+ 
+ A bridge essential to the resupply of Russian forces occupying the city of Melitopol in southern Ukraine was targeted by strikes overnight, according to both Ukrainian and Russian officials. 
+ The bridge appears to have buckled or collapsed inwards in a video posted online by Vladimir Rogov, a pro-Russian regional official.
+ Rogov also posted what appears to be CCTV footage in which an explosion can be heard.
+ CNN has not been able to verify if the explosion is from the bridge, but the video is part of a set of videos Rogov posted of the incident. 
+ Ivan Fedorov, the exiled Ukrainian mayor of Melitopol, said that the route is "one of the strategically important bridges."
+ Rogov also suggested that the bridge is a vital supply route for "food, medicine and building materials to the liberated territories of the Zaporizhzhia and Kherson regions."
+ The bridge connects the city of Melitopol to a suburb named Konstantynivka. It is part of the M14 highway, which runs along Ukraine’s southern coastline from Melitopol to Berdiansk and Mariupol to the east before reaching the Russian Federation.
+ From CNN’s Anna Chernova
+ Ukraine needs to appreciate that Moscow has added new territories to the Russian Federation, Kremlin spokesperson Dmitry Peskov said Tuesday in response to Ukrainian President Volodymyr Zelensky’s three-step proposal for peace.
+ "The Ukrainian side needs to take into account the realities that have developed over all this time," Peskov told reporters on a regular conference call. 
+ "And these realities indicate that the Russian Federation has new subjects [the four annexed territories]."
+ "Without taking these new realities into account, any progress is impossible," he added.
+ In a video statement to the G7 leaders Monday, Zelensky asked to "preserve this level of solidarity" and support Ukraine next year, outlining three steps for peace. 
+ The final step outlined by Zelensky was a "new diplomacy" that involved a peace solution asking Russia to start withdrawing troops from Ukraine this Christmas.
+ From CNN’s Saskya Vandoorne, Marguerite Lacroix and Allegra Goodwin
+ 
+ 
+ Ukrainian President Volodymyr Zelensky has called for $843 million in aid to support the country's critical infrastructure this winter. 
+ In a virtual address at a conference in Paris, Zelensky said Ukraine required critical electrical infrastructure, as well as urgent imports of electricity from European countries "at least until the end of the heating season."
+ "This will cost about 800 million euros ... but the price is less than the cost of the blackout," he warned. 
+ Russia has been repeatedly accused of using "winter as a weapon of war" in Ukraine in recent weeks, relentlessly striking critical infrastructure and leaving millions of Ukrainians without access to electricity, water and central heating in freezing temperatures. 
+ The 46 countries and 24 international organizations which gathered in Paris on Tuesday are expected to commit to providing immediate support to Ukraine, focusing on the winter period.
+ France will commit an additional $80.7 million of humanitarian aid, according to a statement from President Emmanuel Macron’s office, of which $51.1 million will be dedicated to energy, access to water, food, health and transport infrastructure, as well as demining operations. 
+ This will include 63 new high-powered electrical generators being provided to Ukraine in the very near future, the statement said. 
+ So far the conference has seen $421.6 million committed to Ukraine, the statement said, adding that the figure is expected to increase.  
+ From CNN's Jessie Gretener in London
+ 
+ 
+ Hundreds of generators are on their way to Ukraine, said President of the European Commission Ursula von der Leyen, adding that "in these times of suffering and darkness, it is so important to bring light to Ukraine."
+ A total of 800 generators are being distributed across Ukraine, including 40 large generators supplied to ensure uninterrupted power supply to 30 hospitals in the regions of Donetsk, Dnipropetrovsk, Zaporizhzhia, Mykolaiv and Kherson, said von der Leyen.
+ It is vital to keep the Ukrainian power grid functioning despite Russian strikes, said von der Leyen at a Solidarity of the Ukrainian people conference in Paris on Tuesday morning.
+ The European Union is working on increasing the amount of electricity which can be traded between Ukraine, Moldova and the rest of Europe, she added.
+ Ukraine’s first lady Olena Zelenska sat alongside von der Leyen and spoke about the challenges her country is facing, including damage to infrastructure. 
+ Zelenska thanked French President Emmanuel Macron for hosting the forum and asked allies to "become more than you have been before."
+ From CNN's Olga Voitovych and Seb Shukla
+ Three people were killed and a further 15 injured in shelling in the city of Kherson on Monday, according to the head of the Ukrainian regional military administration. 
+ "Russian occupiers shelled the territory of Kherson region 57 times," said Yaroslav Yanushevych on Telegram. 
+ "Peaceful settlements of the region were shelled with artillery, MLRS (Multiple Launch Rocket Systems) and mortars."
+ Schools, a stadium, medical facilities, power lines and infrastructure points, as well as residential buildings were all targeted, he added.
+ From CNN’s Anna Chernova
+ The Russian town of Klintsy in the Bryansk region has been shelled overnight by Ukrainian troops, said regional governor Alexander Bogomaz.
+ Air defense systems destroyed the missile, Bogomaz said in a Telegram post on Tuesday, and some parts of it "fell into the territory of the industrial zone."
+ "There were no casualties or damage," he added.
+ Klintsy is located in western Russia, around 45 kilometers (28 miles) from the Ukrainian border. The closest Ukrainian city is Chernihiv. 
+ Please enable JavaScript for a better experience.
+
